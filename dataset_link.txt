@@ -1,0 +1,5 @@
+globalterrorismdb_0718dist.csv file is the original dataset and it is taken from kaggle.
+
+cleaned_data.csv is created by running the uploaded python notebook and it is used as data source in tableau workbook.
+
+https://drive.google.com/drive/folders/1OnSsIIgZMBX6ZHs01dP0NdQYkmvHImFK?usp=sharing
